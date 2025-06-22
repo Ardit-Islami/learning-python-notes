@@ -2,7 +2,7 @@
 
 This repository contains a series of Jupyter notebooks documenting my hands-on journey through Python programming concepts, from foundational principles to advanced techniques. Each notebook focuses on a specific topic, combining theory with practical examples and code implementations.
 
-## 📘 Notebooks Included
+## Notebooks Included
 
 - **1. Object Oriented** — Introduction to object-oriented programming concepts like classes, objects, and methods.
 - **2. Dynamic Programming** — Solving problems by breaking them down into subproblems, with a focus on efficiency.
@@ -22,7 +22,7 @@ This repository contains a series of Jupyter notebooks documenting my hands-on j
 - **15. Itertools** — Efficient iterator building with the itertools module.
 - **16. Abstract Data Structures (Stack revisit)** — Further examples with stack operations.
 
-## 🛠 Key Skills Developed
+## Key Skills Developed
 - Python syntax and semantics
 - Problem solving with recursion, memoization, and dynamic programming
 - Data structures: stacks, queues, iterators
@@ -31,7 +31,7 @@ This repository contains a series of Jupyter notebooks documenting my hands-on j
 - Multithreading and concurrency basics
 - Numerical computing with NumPy
 
-## 🚀 How to Use
+## How to Use
 Clone this repository and open any notebook with Jupyter:
 
 ```bash
@@ -40,7 +40,7 @@ cd learning-python-notes
 jupyter notebook
 ```
 
-## 💡 Notes
+## Notes
 This collection represents my personal learning notes and code experiments. Contributions and suggestions are welcome!
 
 ---
